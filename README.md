@@ -6,6 +6,13 @@
 ![React](https://img.shields.io/badge/React-19-blue.svg)
 ![Three.js](https://img.shields.io/badge/Three.js-0.187-black.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)
+[![Project Video](https://img.shields.io/badge/Project%20Video-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1AqedLf5lLkMIpBlbtJBmY7y7TV8KnVQX/view?usp=sharing)
+
+---
+
+## 🎥 Project Video & Demonstration
+
+- **Demonstration / Presentation Video**: [Watch on Google Drive](https://drive.google.com/file/d/1AqedLf5lLkMIpBlbtJBmY7y7TV8KnVQX/view?usp=sharing)
 
 ---
 
