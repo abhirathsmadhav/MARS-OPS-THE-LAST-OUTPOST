@@ -145,4 +145,4 @@ npm run preview
 - **NASA Deep Space Network (DSN)**: [https://eyes.nasa.gov/dsn/dsn.html](https://eyes.nasa.gov/dsn/dsn.html)
 - **Opportunity Rover Dust Storm Analysis**: [https://mars.nasa.gov/news/8348/opportunity-weathering-severe-dust-storm-on-mars/](https://mars.nasa.gov/news/8348/opportunity-weathering-severe-dust-storm-on-mars/)
 
-*Disclaimer: This game was created for educational purposes for a NASA-themed hackathon and utilizes publicly available NASA research and technical reports. It does not imply official NASA endorsement or certification.*
+*Disclaimer: This game was created for educational purposes for a NASA themed hackathon and utilizes publicly available NASA research and technical reports. It does not imply official NASA endorsement or certification.*
